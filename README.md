@@ -7,7 +7,7 @@ My own implementation of the "Alchemy" game from my childhood
 ![UIKit](https://img.shields.io/badge/-UIKit-purple.svg)
 ![Alchemy](https://img.shields.io/badge/-Alchemy-green.svg)
 
-<img src="https://github.com/032nnxkitty/DogeExplorerApp_iOS/blob/Screenshots/1.PNG" width="200"> <img src="https://github.com/032nnxkitty/DogeExplorerApp_iOS/Screenshots/2.PNG" width="200"> 
+<img src="https://github.com/032nnxkitty/AlchemyGame-iOS/blob/main/Screenshots/1.PNG" width="200"> <img src="https://github.com/032nnxkitty/AlchemyGame-iOS/blob/main/Screenshots/2.PNG" width="200"> 
 
 ## Features
 - Gestures (TapGesture, PanGesture, LongPressGesture)
